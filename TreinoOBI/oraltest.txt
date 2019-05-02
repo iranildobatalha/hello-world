@@ -1,0 +1,17 @@
+-name
+-country
+-adress
+-age
+-phone number
+-routine -> free time activities
+
+Hi! Good evening! My name is Iranildo and I'm from Brasil. I'm nineteen
+years old. Currently, I live in Manaus with my family. Our residence is
+located in Sobral street, nº 34, Gilberto Mestrinho. If you want to talk
+with me later, my phone number is 991154484.
+During the week, I spend much of my day at the University. I just arrive at
+home at night. So, I only have free time on weekends. When I have free time
+on weekends, I like going out with my friends and my girlfriend, I love
+listening music. And I really like watching football match on TV. Next weekend,
+will have the Final Champions League, would you like to watch the match with
+me?
